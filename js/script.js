@@ -56,3 +56,15 @@ if (videoModal !== null) {
     video.setAttribute('src', videoSrc);
   });
 }
+
+// whatsapp
+
+window.onload = function() {
+  // Get the WhatsApp button
+  const whatsappButton = document.querySelector('.whatsapp-button img');
+
+  // Add shake animation after 3 seconds
+  setTimeout(() => {
+      whatsappButton.classList.add('shake');
+  }, 3000);
+};
