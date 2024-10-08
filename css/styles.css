@@ -3,7 +3,7 @@
 }
 
 .header {
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("../images/WhatsApp\ Image\ 2024-09-13\ at\ 22.56.20_fdc2b6bf.jpg") left center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)), url("../images/home.jpg") left center no-repeat;
   background-size: cover;
   height: 800px;
 }
